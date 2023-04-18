@@ -1,0 +1,170 @@
+[05-Aug-2022 21:18:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home/mecom0tq32ql/public_html/Fdigital.sodeker.com/vendor/composer/platform_check.php on line 24
+[05-Aug-2022 21:18:03 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home/mecom0tq32ql/public_html/Fdigital.sodeker.com/vendor/composer/platform_check.php on line 24
+[05-Aug-2022 21:19:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.30. in /home/mecom0tq32ql/public_html/Fdigital.sodeker.com/vendor/composer/platform_check.php on line 24
+[27-Oct-2022 16:34:45 America/Bogota] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/mecom0tq32ql/public_html/Fdigital.sodeker.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[03-Feb-2023 20:59:38 UTC] PHP Fatal error:  Cannot use GuzzleHttp\Client as Client because the name is already in use in /home/mecom0tq32ql/public_html/proups.sodeker.com/app/Http/Controllers/PruebasController.php on line 9
+[23-Feb-2023 20:30:25 UTC] got failure response: NO AUTHENTICATE failed.
+
+[23-Feb-2023 20:31:53 UTC] got failure response: NO AUTHENTICATE failed.
+
+[23-Feb-2023 20:53:29 UTC] got failure response: NO AUTHENTICATE failed.
+
+[23-Feb-2023 21:04:30 UTC] got failure response: NO AUTHENTICATE failed.
+
+[23-Feb-2023 21:06:35 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:06:35 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:31:15 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:31:15 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:32:59 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:32:59 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:34:00 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:34:00 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:39:24 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:39:24 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:40:00 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:40:00 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:40:41 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:40:41 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:41:48 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:41:48 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:42:25 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:42:25 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:43:41 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:43:41 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:44:49 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:44:49 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:48:27 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:48:27 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:48:37 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:48:37 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:48:53 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:48:53 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:49:47 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:49:47 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:51:31 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:51:31 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:51:52 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:51:52 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:52:22 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:52:22 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:54:36 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:54:36 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:57:06 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:57:06 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[23-Feb-2023 21:57:59 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[23-Feb-2023 21:57:59 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 12:46:39 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 12:46:39 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:01:34 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:01:34 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:01:47 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:01:47 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:11:24 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:11:24 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:14:01 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:14:01 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:14:34 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:14:34 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:22:56 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:22:56 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:23:00 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:23:00 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:24:28 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:24:28 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:24:31 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:24:31 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:24:40 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:24:40 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:25:34 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:25:34 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 13:31:58 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 13:31:58 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 15:13:41 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 15:13:41 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 15:16:26 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 15:16:26 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 15:25:37 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 15:25:37 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 15:25:41 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 15:25:41 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[24-Feb-2023 15:25:50 UTC] got an extra server challenge: eyJzdGF0dXMiOiI0MDAiLCJzY2hlbWVzIjoiQmVhcmVyIiwic2NvcGUiOiJodHRwczovL21haWwuZ29vZ2xlLmNvbS8ifQ==
+
+[24-Feb-2023 15:25:50 UTC] got failure response: NO [AUTHENTICATIONFAILED] Invalid credentials (Failure)
+
+[14-Mar-2023 21:11:18 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Http as Http because the name is already in use in /home/mecom0tq32ql/public_html/proups.sodeker.com/app/Http/Controllers/PruebasController.php on line 14
